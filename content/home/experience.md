@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Arbeitserfahrung"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Auszubildender"
+  company = "Deutsche Telekom AG"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Saarbrücken"
+  date_start = "2001-08-01"
+  date_end = "2004-06-30"
   description = """
-  Responsibilities include:
+  Arbeitsbereiche:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Programmierung mit Delphi
+  * Datenbanken
+  * VBA-Programmierung
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Stützlehrer"
+  company = "Institut für Beruf und Bildung (IBB)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Saarbrücken"
+  date_start = "2005-02-01"
+  date_end = ""
+  description = """Unterricht für Personen, die auf IT-Berufe umschulen. Neben dem Studium und bis heute bin ich nebenberuflich dort tätig. """
 
 +++

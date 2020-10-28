@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher Olbertz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lehrkraft für besondere Aufgaben im Bereich Informatik
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hochschule für Technik und Wirtschaft des Saarlandes
+  url: "http://www.htwsaar.de"
+- name: SystemTechnikLabor
+  url: "https://stl.htwsaar.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ich arbeite als Lehrkraft im Bereich Informatik der htw saar mit dem Spezialgebiet Softwareentwicklung.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Programmierung mit Java, C/C++, C#
+- Softwaretechnik
+- Softwarearchitektur
+- UML
+- Testen
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Fachinformatiker für Anwendungsentwicklung
+    institution: Deutsche Telekom AG
+    year: 2004
+  - course: Dipl.-Inf.(FH) 
+    institution: Hochschule für Technik und Wirtschaft des Saarlandes
+    year: 2010
+  - course: Master of Science
+    institution: FernUniversität Hagen
+    year: voraussichtlich 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:christopher.olbertz@htwsaar.de".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/poseidonsfisch
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chrisolbertz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,11 +65,11 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ich arbeite als Lehrkraft für besondere Aufgaben an der Hochschule für Technik und Wirtschaft des Saarlandes und unterstützte die Lehre im Bereich Informatik. Dabei unterrichte ich hauptsächlich in den Studiengängen Praktische Informatik und Kommunikationsinformatik. Dabei betreue ich Übungen mit den Programmiersprachen C/C++ und Java. Neben der Unterstützung bei Übungen halte ich einige eigene Vorlesungen und arbeite an verschiedenen Projekten im SystemTechnikLabor, dem größten Informatik-Labor an der Hochschule. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+

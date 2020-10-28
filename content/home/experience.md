@@ -17,6 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Lehrkraft für besondere Aufgaben"
+  company = "Hochschule für Technik und Wirtschaft des Saarlandes"
+  company_url = "http://www.htwsaar.de"
+  location = "Saarbrücken"
+  date_start = "2011-05-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Stützlehrer"
+  company = "Institut für Beruf und Bildung (IBB)"
+  company_url = ""
+  location = "Saarbrücken"
+  date_start = "2005-02-01"
+  date_end = ""
+  description = """Unterricht für Personen, die auf IT-Berufe umschulen. Neben dem Studium und bis heute bin ich nebenberuflich dort tätig. """
+
+[[experience]]
+  title = "Selbstständig"
+  company = "Freiberuflicher Trainer und Softwareentwickler"
+  company_url = ""
+  location = "Saarbrücken"
+  date_start = "2009-09-01"
+  date_end = ""
+  description = """"""
+
 [[experience]]
   title = "Auszubildender"
   company = "Deutsche Telekom AG"
@@ -31,14 +59,5 @@ date_format = "Jan 2006"
   * Datenbanken
   * VBA-Programmierung
   """
-
-[[experience]]
-  title = "Stützlehrer"
-  company = "Institut für Beruf und Bildung (IBB)"
-  company_url = ""
-  location = "Saarbrücken"
-  date_start = "2005-02-01"
-  date_end = ""
-  description = """Unterricht für Personen, die auf IT-Berufe umschulen. Neben dem Studium und bis heute bin ich nebenberuflich dort tätig. """
 
 +++

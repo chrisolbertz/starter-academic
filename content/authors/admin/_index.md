@@ -18,14 +18,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ich arbeite als Lehrkraft im Bereich Informatik der htw saar mit dem Spezialgebiet Softwareentwicklung.
 
-Interessen:
+interests:
 - Programmierung mit Java, C/C++, C#
 - Softwaretechnik
 - Softwarearchitektur
 - UML
 - Testen
 
-Ausbildung:
+education:
   courses:
   - course: Fachinformatiker für Anwendungsentwicklung
     institution: Deutsche Telekom AG

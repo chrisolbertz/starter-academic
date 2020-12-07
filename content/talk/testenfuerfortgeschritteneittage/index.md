@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Automatisches Testen in Java für Fortgeschrittene IT-Tage 2020"
+title: "Automatisches Testen in Java für Fortgeschrittene (IT-Tage 2020)"
 event: IT-Tage
 event_url: https://www.ittage.informatik-aktuell.de
 location: online

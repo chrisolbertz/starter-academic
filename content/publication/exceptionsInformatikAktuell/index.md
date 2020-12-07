@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Informatik Aktuell"
-publication_short: ""
+# publication_short: ""
 
 abstract: Java ist mit einem Konzept einzigartig: Die geprüften Ausnahmen gibt es in dieser Form in keiner anderen Programmiersprache. Sie zwingen den Programmierer dazu, Ausnahmen zu behandeln und scheinen damit ein Garant für gute und robuste Software zu sein. Doch ist das wirklich so? Die Meinungen gehen in der Literatur zu diesem Thema stark auseinander. Ich möchte in diesem Artikel sowohl die Vor- als auch die Nachteile von geprüften Ausnahmen näher beleuchten und auf die Frage umgehen, wie man ihre Vorteile nutzen kann ohne von ihren Nachteilen negativ beeinflusst zu werden.
 

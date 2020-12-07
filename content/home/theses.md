@@ -184,5 +184,13 @@ von Logdateien</span></td>
 mithilfe von modernen JavaScript-Technologien</span></td>
 <td>Anynines GmbH</td>
 </tr>
+        <tr>
+<td>20</td>
+<td>PI</td>
+<td>2020</td>
+<td>Robin Dort</td>
+<td><span>Optimierung und Automatisierung firmeninterner Prozesse und Integration der Lösungen in bestehende Strukturenn</span></td>
+<td>Cosmos Lebensversicherung AG</td>
+</tr>
 </tbody>
 </table>

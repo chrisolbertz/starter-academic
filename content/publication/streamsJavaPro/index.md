@@ -29,7 +29,7 @@ featured: false
 
 links:
 #  - name: JavaPro
-url: http://javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
+url: javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
 # url_dataset: '#'

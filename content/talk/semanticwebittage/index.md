@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Java Goes Semantic Web"
+title: "Java Goes Semantic Web IT-Tage 2020"
 event: IT-Tage
 event_url: https://www.ittage.informatik-aktuell.de
 location: online
@@ -11,8 +11,10 @@ address:
   region:
   postcode:
   country:
-summary: "Für die Umsetzung des Semantischen Webs werden zahlreiche Werkzeuge benötigt. Ich stelle mit den Ontologien eines der wichtigsten Elemente vor und zeige, wie man diese Daten mit Java verarbeiten kann."
-abstract: "Ein wichtiges Werkzeug für die Entwicklung des Semantischen Netzes sind Ontologien, die in den Sprachen RDF/RDFS und OWL beschrieben werden. Es kann allerdings auch sehr interessant sein, die in den Ontologien kodierten Daten mithilfe von Java-Programmen auszulesen und weiterzuverarbeiten. Zuerst soll theoretisch erklärt werden, was Ontologien sind und wie man sie einsetzen kann. Zudem sollen sie von den traditionellen relationalen Datenbanken abgegrenzt werden. Anschließend sollen einige Java-Frameworks vorgestellt werden, die für die Auswertung von Ontologien eingesetzt werden können: RDF4J, Apache Jena und OWLApi. An kleinen Codebeispielen wird die grundlegende Vorgehensweise erklärt und einige mögliche Anwendungsmöglichkeiten für die mittels Java ausgelesenen Daten sollen vorgestellt werden."
+summary: In diesem Vortrag erkläre ich grundlegende Konzepte des Semantischen Netzes und mit welchen Java-Frameworks man diese nutzen kann.
+abstract: "Ein wichtiges Werkzeug für die Entwicklung des semantischen Netzes sind Ontologien, die in den Sprachen RDF/RDFS und OWL beschrieben werden. Es kann allerdings auch sehr interessant sein, die in den Ontologien kodierten Daten mithilfe von Java-Programmen auszulesen und weiterzuverarbeiten. Zuerst soll theoretisch erklärt werden, was Ontologien sind und wie man sie einsetzen kann. Zudem sollen sie von den traditionellen relationalen Datenbanken abgegrenzt werden. Anschließend sollen einige Java-Frameworks vorgestellt werden, die für die Auswertung von Ontologien eingesetzt werden können: RDF4J, Apache Jena und OWLApi.
+
+An kleinen Codebeispielen wird die grundlegende Vorgehensweise erklärt und einige mögliche Anwendungsmöglichkeiten für die mittels Java ausgelesenen Daten sollen vorgestellt werden."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-29T09:42:26+01:00
 
-authors: []
+authors: [Olbertz]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -64,5 +66,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [uniklinik]
 ---

@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: In diesem Artikel beschreibe ich die Vorteile und Verwendung der Streams, die seit Java 8 Teil des JDKs sind und die vor allem für die Arbeit mit Collections zahlreiche Vorteile bieten. Das Bearbeiten von Collections ist mit Streams einfacher und kompakter, denn die Programmierung von umfangreichen Schleifen-Konstrukten ist nicht mehr notwendig. 
+abstract: Java ist mit einem Konzept einzigartig: Die geprüften Ausnahmen gibt es in dieser Form in keiner anderen Programmiersprache. Sie zwingen den Programmierer dazu, Ausnahmen zu behandeln und scheinen damit ein Garant für gute und robuste Software zu sein. Doch ist das wirklich so? Die Meinungen gehen in der Literatur zu diesem Thema stark auseinander. Ich möchte in diesem Artikel sowohl die Vor- als auch die Nachteile von geprüften Ausnahmen näher beleuchten und auf die Frage umgehen, wie man ihre Vorteile nutzen kann ohne von ihren Nachteilen negativ beeinflusst zu werden.
 
 # Summary. An optional shortened abstract.
 summary: Die Streams von Java 8 werden noch häufig unterschätzt. Dabei sind sie ein hilfreiches Werkzeug für die Verarbeitung von Collections.

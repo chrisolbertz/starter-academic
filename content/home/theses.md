@@ -138,5 +138,51 @@ title: Betreute Thesen
 <td><span>Entwicklung und Durchführung von Modultests in der E-Commerce-Plattform SAP Hybris am Beispiel der Erweiterung des Zahlungsvorgangs um PayPal</span></td>
 <td>ComSol AG</td>
 </tr>
+  <tr>
+<td>15</td>
+<td>KI</td>
+<td>2020</td>
+<td>Edwrard Cesaire Nana Tchaptchet</td>
+<td><span>Entwicklung eines Mendix REST Integrationsmodul mit OAuth 2.0
+für die Smart Digital Factory von Mansystems GmbH zur Erstellung von Issues in Jira Cloud</span></td>
+<td>Mansystems</td>
+</tr>
+<tr>
+<td>16</td>
+<td>DFHI</td>
+<td>2020</td>
+<td>Alexandre Guidoux</td>
+<td><span>Entwicklung einer universell einsetzbaren Icon-Bibliothek mit modernen Technologien</span></td>
+<td>Ergosign</td>
+</tr>
+  <tr>
+<td>17</td>
+<td>PI</td>
+<td>2020</td>
+<td>Abdurrahman Bozkurt</td>
+<td><span>Konzeption und Entwicklung einer Cross-Plattform-App für das
+Facility-Management in Kombination mit der Verwaltung von
+Workplace-Ressourcen</span></td>
+<td>Archibus</td>
+</tr>
+    <tr>
+<td>18</td>
+<td>PI</td>
+<td>2020</td>
+<td>Julian Johannes Bur</td>
+<td><span>Redesing und komponentenweise Erweiterung des
+edBug-Systems zum automatisiertem Erfassen und Auswerten
+von Logdateien</span></td>
+<td>Eurodata</td>
+</tr>
+      <tr>
+<td>19</td>
+<td>PI</td>
+<td>2020</td>
+<td>Johann Chopin</td>
+<td><span>Entwicklung einer WYSIWYG Page-Builder Komponente
+mithilfe von modernen JavaScript-Technologien</span></td>
+<td>Anynines GmbH</td>
+</tr>
 </tbody>
 </table>

@@ -1,43 +1,44 @@
 ---
 title: Java Goes Semantic Web
 event: JCON 2020
-event_url: https://jcon.io
+event_url: https://jcon.one/de/
 
 location: remote
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: In diesem Vortrag erkläre ich grundlegende Konzepte des Semantischen Netzes und mit welchen Java-Frameworks man diese nutzen kann.
+abstract: "Ein wichtiges Werkzeug für die Entwicklung des semantischen Netzes sind Ontologien, die in den Sprachen RDF/RDFS und OWL beschrieben werden. Es kann allerdings auch sehr interessant sein, die in den Ontologien kodierten Daten mithilfe von Java-Programmen auszulesen und weiterzuverarbeiten. Zuerst soll theoretisch erklärt werden, was Ontologien sind und wie man sie einsetzen kann. Zudem sollen sie von den traditionellen relationalen Datenbanken abgegrenzt werden. Anschließend sollen einige Java-Frameworks vorgestellt werden, die für die Auswertung von Ontologien eingesetzt werden können: RDF4J, Apache Jena und OWLApi.
+
+An kleinen Codebeispielen wird die grundlegende Vorgehensweise erklärt und einige mögliche Anwendungsmöglichkeiten für die mittels Java ausgelesenen Daten sollen vorgestellt werden."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-10-29T12:00:00Z"
+date_end: "2020-10-29T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Olbertz, Christopher]
+tags: [Semantic Web, Java, Ontologien, RDF, RDFS, OWL]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

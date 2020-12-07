@@ -23,7 +23,7 @@ date_end: "2020-10-29T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-29T12:00:00Z"
 
 authors: [Olbertz, Christopher]
 tags: [Semantic Web, Java, Ontologien, RDF, RDFS, OWL]
@@ -31,18 +31,18 @@ tags: [Semantic Web, Java, Ontologien, RDF, RDFS, OWL]
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

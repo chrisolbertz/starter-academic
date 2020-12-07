@@ -1,5 +1,5 @@
 ---
-title: Java Goes Semantic Web
+title: Java Goes Semantic Web JCON 2020
 event: JCON 2020
 event_url: https://jcon.one/de/
 

@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Veröffentlichungen"
   url = "#featured"
   weight = 40
 
@@ -27,26 +27,26 @@
 #  name = "Courses"
 #  url = "courses/"
 #  weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
   
   [[main]]
   name = "Hochschullehre"
   url = "#lectures"
-  weight = 70
+  weight = 60
 
   [[main]]
-  name = "Talks"
+  name = "Vorträge"
   url = "#talks"
-  weight = 80
+  weight = 70
   
   [[main]]
 	name = "Betreute Thesen"
 	url = "#theses"
-	weight=90
+	weight=80
+  
+[[main]]
+  name = "Kontakt"
+  url = "#contact"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

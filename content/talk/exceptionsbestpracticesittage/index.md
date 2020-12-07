@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Catch me if you can - Best Practices mit Java Exceptions IT-Tage 2020"
+title: "Catch me if you can - Best Practices mit Java Exceptions (IT-Tage 2020)"
 event: IT-Tage
 event_url: https://www.ittage.informatik-aktuell.de
 location: online

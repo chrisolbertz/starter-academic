@@ -25,46 +25,36 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-29T09:42:26+01:00
 
-authors: [Olbertz]
-tags: []
+authors: [Olbertz, Christopher]
+tags: [Semantic Web, Java, Ontologien, RDF, RDFS, OWL]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
-url_code:
-url_pdf:
-url_video:
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [uniklinik]
+# projects: [uniklinik]
 ---

@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-#  - name: JavaPro
+- name: JavaPro
 url: javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
@@ -61,9 +61,3 @@ url: javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -3,7 +3,7 @@ title: Java Goes Semantic Web JCON 2020
 event: JCON 2020
 event_url: https://jcon.one/de/
 
-location: remote
+location: online
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

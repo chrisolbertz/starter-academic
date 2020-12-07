@@ -24,11 +24,11 @@ abstract: In diesem Artikel beschreibe ich die Vorteile und Verwendung der Strea
 summary: Die Streams von Java 8 werden noch häufig unterschätzt. Dabei sind sie ein hilfreiches Werkzeug für die Verarbeitung von Collections.
 
 tags:
-- Source Themes
+- Java, Streams, Collections
 featured: false
 
-links:
-- name: JavaPro
+# links:
+# - name: JavaPro
 # url: https://javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
 url_pdf: https://javapro.io/collections-effektiver-durchsuchen-mit-java-8-streams/
 # url_code: '#'

@@ -15,21 +15,19 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Overview
-    weight: 1
+#menu:
+#  example:
+#    name: Overview
+#    weight: 1
 ---
 
-## Flexibility
+## Spielerisch Programmieren lernen  - für Kinder
 
-This feature can be used for publishing content such as:
+Weihnachten steht vor der Tür. Corona ebenso - und die Schulen werden bis auf weiteres geschlossen bleiben. Auch einige Zeit im neuen Jahr.
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+Was aber ist mit den Kindern? Sollen sie den ganzen Tag vor dem Fernseher oder dem Computer verbringen? Freunde treffen dürfen sie nicht, draußen warten nur Kälte und schlechtes Wetter.
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+Wenn sie schon Zeit vor dem Computer verbringen, warum sollen sie dann nicht etwas Sinnvolles lernen, das ihnen auch Spaß macht?
 
 ## Delete tutorials
 

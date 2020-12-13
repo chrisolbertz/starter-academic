@@ -40,7 +40,9 @@ Was aber ist mit den Kindern? Sollen sie den ganzen Tag vor dem Fernseher oder d
 
 Wenn sie schon Zeit vor dem Computer verbringen, warum sollen sie dann nicht etwas Sinnvolles lernen, das ihnen auch Spaß macht?
 
-[Preise und Termien](#preise-und-termine)
+[Häufig gestellte Fragen](#häufig-gestellte-fragen)
+[Voraussetzungen](#voraussetzungen)
+[Preise und Termine](#preise-und-termine)
 
 ## Warum nicht in die Grundlagen des Programmierens hineinschnuppern?
 

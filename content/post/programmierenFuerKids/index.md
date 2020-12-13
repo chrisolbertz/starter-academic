@@ -84,4 +84,4 @@ Die Termine werden mit den Teilnehmern abgesprochen. Der Kurs findet an fünf Te
 
 Gelernt wird in Kleingruppen von 3 - 5 Kindern, so dass die Kinder auch zusammen an den Übungen basteln können, und kostet pro Kind bis Ende 2020 90 statt 95 Euro.
 
-Der Kurs wird zusammen mit dem Lernstudio Alpha&Pi angeboten: [Alpha und Pi](http://alphaundpi.de)
+Der Kurs wird zusammen mit dem Lernstudio Alpha&Pi angeboten. Weitere Informationen und Buchung: [Alpha und Pi](http://alphaundpi.de)

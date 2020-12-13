@@ -33,14 +33,14 @@ image:
 projects: []
 ---
 
-#Spielerisch Programmieren lernen  - für Kinder
+# Spielerisch Programmieren lernen  - für Kinder
 Weihnachten steht vor der Tür. Corona ebenso - und die Schulen werden bis auf weiteres geschlossen bleiben. Auch einige Zeit im neuen Jahr.
 
 Was aber ist mit den Kindern? Sollen sie den ganzen Tag vor dem Fernseher oder dem Computer verbringen? Freunde treffen dürfen sie nicht, draußen warten nur Kälte und schlechtes Wetter.
 
 Wenn sie schon Zeit vor dem Computer verbringen, warum sollen sie dann nicht etwas Sinnvolles lernen, das ihnen auch Spaß macht?
 
-##Warum nicht in die Grundlagen des Programmierens hineinschnuppern?
+## Warum nicht in die Grundlagen des Programmierens hineinschnuppern?
 
 Denn dieses Thema ist in aller Munde. Immer wieder wird betont, wie wichtig es ist, dass man sich in unserer hochtechnischen Welt ein wenig damit auskennt. Und jetzt haben wir eine Zeit des Leerlaufs.
 
@@ -54,20 +54,20 @@ Bei Interesse können auch Nachfolgekurse angeboten werden, die dann auch Grundl
 
 Der Kurs richtet sich an Mädchen und Jungen im Alter von 8 - 16 Jahre.
 
-##Häufig gestellte Fragen
-###Muss ich gut in Mathe sein?
+## Häufig gestellte Fragen
+### Muss ich gut in Mathe sein?
 Nein, das ist nicht notwendig. Mathe wird bei uns keine große Rolle spielen. Für den Kurs reichen die Grundrechenarten. Du musst dich auch nicht gut mit dem Computer auskennen.  Nur ein bisschen Interesse an Technik ist von Vorteil.
 
-###Ist Programmieren nur etwas für Jungen?
+### Ist Programmieren nur etwas für Jungen?
 Nein, überhaupt nicht! Jedes Kind kann diesen Kurs besuchen und sein Interesse am Programmieren entdecken. Das hat nichts mit dem Geschlecht zu tun.
 
-###Wo muss ich hinkommen?
+### Wo muss ich hinkommen?
 Das ist das Beste: Du bleibst einfach zu Hause. Der Kurs wird online über das Internet angeboten.
 
-###Brauche ich einen modernen Computer?
+### Brauche ich einen modernen Computer?
 Ein moderner Computer stört nicht, ist aber keine Voraussetzung. Auch ein sehr einfacher Rechner reicht vollkommen für diesen Kurs.
 
-##Voraussetzungen
+## Voraussetzungen
 
 - Stabile Internetverbindung
 - Handelsüblicher Browser (z.B. Firefox oder Google Chrome)
@@ -75,7 +75,7 @@ Ein moderner Computer stört nicht, ist aber keine Voraussetzung. Auch ein sehr 
 - Kamera (wird natürlich nur freiwillig eingeschaltet)
 - Spaß am Lernen, Spielen und Entdecken
 
-##Preise und Termine
+## Preise und Termine
 Die Termine werden mit den Teilnehmern abgesprochen. Der Kurs findet an fünf Terminen à 120 Minuten inklusive Pausen statt.
 
 Gelernt wird in Kleingruppen von 3 - 5 Kindern, so dass die Kinder auch zusammen an den Übungen basteln können, und kostet pro Kind bis Ende 2020 90 statt 95 Euro.

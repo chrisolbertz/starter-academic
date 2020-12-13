@@ -60,8 +60,9 @@ Bei Interesse können auch Nachfolgekurse angeboten werden, die dann auch Grundl
 
 Der Kurs richtet sich an Mädchen und Jungen im Alter von 8 - 16 Jahre.
 
-[Nach oben](#kinder-lernen-spielerisch-programmieren)
 ## Häufig gestellte Fragen
+[Nach oben](#kinder-lernen-spielerisch-programmieren)
+
 ### Muss ich gut in Mathe sein?
 Nein, das ist nicht notwendig. Mathe wird bei uns keine große Rolle spielen. Für den Kurs reichen die Grundrechenarten. Du musst dich auch nicht gut mit dem Computer auskennen.  Nur ein bisschen Interesse an Technik ist von Vorteil.
 
@@ -74,9 +75,8 @@ Das ist das Beste: Du bleibst einfach zu Hause. Der Kurs wird online über das I
 ### Brauche ich einen modernen Computer?
 Ein moderner Computer stört nicht, ist aber keine Voraussetzung. Auch ein sehr einfacher Rechner reicht vollkommen für diesen Kurs.
 
-[Nach oben](#kinder-lernen-spielerisch-programmieren)
-
 ## Voraussetzungen
+[Nach oben](#kinder-lernen-spielerisch-programmieren)
 
 - Stabile Internetverbindung
 - Handelsüblicher Browser (z.B. Firefox oder Google Chrome)
@@ -84,10 +84,9 @@ Ein moderner Computer stört nicht, ist aber keine Voraussetzung. Auch ein sehr 
 - Kamera (wird natürlich nur freiwillig eingeschaltet)
 - Spaß am Lernen, Spielen und Entdecken
 
-
+## Preise und Termine
 [Nach oben](#kinder-lernen-spielerisch-programmieren)
 
-## Preise und Termine
 Die Termine werden mit den Teilnehmern abgesprochen. Der Kurs findet an fünf Terminen à 120 Minuten inklusive Pausen statt.
 
 Gelernt wird in Kleingruppen von 3 - 5 Kindern, so dass die Kinder auch zusammen an den Übungen basteln können, und kostet pro Kind bis Ende 2020 90 statt 95 Euro.

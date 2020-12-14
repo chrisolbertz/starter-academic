@@ -73,6 +73,6 @@ highlight_name: false
 
 Ich arbeite als Lehrkraft für besondere Aufgaben an der Hochschule für Technik und Wirtschaft des Saarlandes und unterstützte die Lehre im Bereich Informatik. Dabei unterrichte ich hauptsächlich in den Studiengängen Praktische Informatik und Kommunikationsinformatik. Dabei betreue ich Übungen mit den Programmiersprachen C/C++ und Java. Neben der Unterstützung bei Übungen halte ich einige eigene Vorlesungen und arbeite an verschiedenen Projekten im SystemTechnikLabor, dem größten Informatik-Labor an der Hochschule. 
 
-Neben meiner Arbeit an der Hochschule halte ich Vorträge und halte Kurse zu verschiedenen Themen in der Informatik. Wenn Sie Interesse an einem Vortrag oder einem Kurs haben, melden Sie sich einfach unverbindlich bei mir - im Moment am besten per Email.
+Freiberuflich halte ich Vorträge und Kurse zu verschiedenen Themen in der Informatik. Wenn Sie Interesse an einem Vortrag oder einem Kurs haben, melden Sie sich einfach unverbindlich bei mir - im Moment am besten per Email.
 
 

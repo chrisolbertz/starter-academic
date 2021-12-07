@@ -1,27 +1,35 @@
 ---
-# Course title, summary, and position.
-linktitle: Git für Software-Entwickler
+title: Git für Software-Entwickler
+subtitle:
 summary: In diesem Kurs erlernen Sie den Umfang mit dem Versionisierungsprogramm Git kennen. Git ermöglicht es Ihnen, mit anderen in Teams zusammenzuarbeiten und verschiedene Versionen Ihrer Dokumente zu verwalten.
-weight: 1
+authors:
+- Christopher Olbertz
+tags:
+- Programmieren
+- Git
+categories:
+- Programmierkurse
+date: "2020-12-07T00:00:00Z"
+lastmod: "2020-12-07T00:00:00Z"
+featured: false
+draft: false
 
-# Page metadata.
-title: Überblick
-date: "2021-12-05T00:00:00Z"
-lastmod: "2021-12-05T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  Java Allgemein:
-    name: Überblick
-    weight: 1
-  Digitale Lehre:
-    name: Überblick
-    weight: 2
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 ## Kursbeschreibung

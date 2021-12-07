@@ -1,17 +1,16 @@
 ---
-title: Spielend Programmieren lernen für Kids
-subtitle: Programmieren macht Spaß
-summary: In diesem Kurs möchte ich Kindern das Interesse am Programmieren vermitteln. Dazu verwende ich eine speziell für Kinder entwickelte Software und viele lustige Aufgaben. Und am Ende des Kurses haben die Kinder ein paar kleine Spiele entwickelt, die sie ihren Eltern und Freunden vorführen können. 
+title: Grundlagen von Apache Maven
+subtitle:
+summary: In diesem Kurs erlernen Sie den Umfang mit dem äußerst mächtigen Build-Tool Apache Maven für Java. Sie erfahren, wie Ihnen Maven bei der Softwareentwicklung mit Java das Leben erheblich erleichtern kann.
 authors:
 - Christopher Olbertz
 tags:
 - Programmieren
-- Kurse für Kinder
+- Maven
 categories:
-- Kurse für Kinder
 - Programmierkurse
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2020-12-07T00:00:00Z"
+lastmod: "2020-12-07T00:00:00Z"
 featured: false
 draft: false
 
@@ -33,51 +32,85 @@ image:
 projects: []
 ---
 
-#Spielerisch Programmieren lernen  - für Kinder
-Weihnachten steht vor der Tür. Corona ebenso - und die Schulen werden bis auf weiteres geschlossen bleiben. Auch einige Zeit im neuen Jahr.
+## Kursbeschreibung
+Je komplexer die Software wird, desto wichtiger wird ein kontrollierter Build-Prozess. Zur Entwicklung gehören neben der Programmierung selbst zahlreiche weitere Schritte wie z.B. Testen, Verpacketieren, Deployen auf verschiedene Umgebungen, Dokumentieren usw. Bei diesen Schritten kann Maven stark unterstützen. Ein wichtiger Bestandteil von Maven ist die Verwaltung von Abhängigkeiten. Normalerweise muss der Programmierer seine Abhängigkeiten zu Fremd-Bibliotheken selbst verwalten. Maven automatisiert diese Verwaltung, so dass ein Programmierer hier nicht mehr viel Mühe und Zeit investieren muss.
 
-Was aber ist mit den Kindern? Sollen sie den ganzen Tag vor dem Fernseher oder dem Computer verbringen? Freunde treffen dürfen sie nicht, draußen warten nur Kälte und schlechtes Wetter.
+Doch auch darüber hinaus bietet Maven zahlreiche Möglichkeiten zur Automatisierung. So können eigene Plugins entwickelt werden, mit denen man eigene Automatisierungsaufgaben ausführen kann, Projektvorlagen (sog. Archetypes). Auch die Einteilung einer Anwendung in Module wird von Maven unterstützt. Zudem kann Maven nahtlos in Entwicklungsumgebungen wie z.B. Eclipse integriert werden.
 
-Wenn sie schon Zeit vor dem Computer verbringen, warum sollen sie dann nicht etwas Sinnvolles lernen, das ihnen auch Spaß macht?
+Im Rahmen dieser Schulung werden die wichtigsten Konzepte von Maven vorgestellt. Dabei installieren wir die benötigte Software auf den Rechnern der Teilnehmer. Danach wechseln sich theoretische und praktische Phasen ab. Die Teilnehmer können auf ihren Geräten sofort die Kommandos ausprobieren und nachvollziehen, wie Maven arbeitet. So weit möglich, kann auf konkrete Probleme aus dem Arbeitsumfeld der Teilnehmer eingegangen werden. 
 
-##Warum nicht in die Grundlagen des Programmierens hineinschnuppern?
+Im Kurs werden vom Dozenten ein Linux-System und die IDE Eclipse eingesetzt. Aber die Teilnehmer sind bei der Wahl des Betriebssystem und der IDE absolut frei, denn Maven läuft auf jedem Betriebssystem. 
 
-Denn dieses Thema ist in aller Munde. Immer wieder wird betont, wie wichtig es ist, dass man sich in unserer hochtechnischen Welt ein wenig damit auskennt. Und jetzt haben wir eine Zeit des Leerlaufs.
+## Kursinhalte
+1. Einführung in Maven
+	* Installation von Maven und Einrichten der Arbeitsumgebung
+	* Grundlegende Funktionsweise
+	* Aufbau eines Maven-Projekts
+	* Erstellen eines Maven-Projekts
+	* Grundlegende Kommandos
+	* Lebenszyklus eines Projekts
+	* Maven-Koordinaten
+	* Project Object Model (POM)
+	* Unit-Tests
+	* Das lokale Repository
+	
+2. Verwaltung von Abhängigkeiten
+	* Definition von Abhängigkeiten
+	* Transitive Abhängigkeiten
+	* Ein- und Ausschluss von Abhängigkeiten
+	
+3. Ressourcen
+	* Verwaltung von Ressourcen
+	* Filtern von Ressourcen
+		
+4. Multi-Modul-Projekte
+	* Erstellen von Multi-Modul-Projekten
+	* Vererben von Abhängigkeiten
 
-Deswegen bieten wir einen Kurs an, in dem die Kinder die Grundlagen des Programmierens erlernen sollen. Aber nicht mit einer langweiligen Programmiersprache. Denn bis man mit einer Programmiersprache wirklich interessante Ergebnisse sieht, muss man viel Zeit mit langweiligem Lernen und Üben verbringen. Nicht in unserem Kurs.
+5. Plugins
+	* Wichtige Plugins
+	* Eigene Plugins entwickeln
+	* Eigene Plugins verwenden
 
-Bei uns werden die Kinder mithilfe einer grafischen, speziell für Kinder entwickelten Software und lustigen Übungen an die Denkweisen herangeführt, die man zum Programmieren braucht. Ziel ist es nicht, dass sie später große Programme entwickeln können, sondern dass sie einen ersten Kontakt mit dem Thema haben, verstehen, was ein Programm ist, und verstehen, wie man denken muss.
+6. Entwicklung von Archetypes
+	* Was sind Archetypes?
+	* Entwicklung eigener Archetypes
+	* Verwenden eigener Archetypes
 
-So können die Kinder bereits nach der ersten Übung ein buntes und lustiges Ergebnis sehen. Dadurch möchten wir Interesse wecken, so dass sie bereit sind, sich später selbst weiter mit ihren eigenen Programmen zu beschäftigen und vielleicht sogar irgendwann einmal in eine richtige Programmiersprache hineinschauen. Am Ende werden wir zusammen mehrere kleine Spiele basteln, die die Kinder dann z.B. den Eltern vorführen können.
+7. Profile
+	* Was sind Profile?
+	* Definieren von Profilen
+	* Aktivieren von Profilen
+	
+8. Dokumentieren mit Maven
+	* Erstellen einer Projekt-Webseite
+	* Erstellung einer JavaDoc
+	* Erstellung einer FAQ
+	* Erstellung weiterer Projektbeschreibungen
+	* Einbindung weiterer Plugins (z.B. PMD, FindBugs usw.)
 
-Bei Interesse können auch Nachfolgekurse angeboten werden, die dann auch Grundlagen mit richtigen Programmiersprachen zeigen.
+## Notwendige Vorkenntnisse
+Java-Kenntnisse sind erforderlich und Kenntnisse im Bereich des Unit-Testings sind von Vorteil. 
 
-Der Kurs richtet sich an Mädchen und Jungen im Alter von 8 - 16 Jahre.
+## Informationen zur Buchung
+Der Kurs wird ab Anfang 2022 erstmalig angeboten. Wenn Sie Interesse an dem Kurs haben, melden Sie sich am besten per Email bei mir zur Absprache von Terminen und weiteren Details. 
 
-##Häufig gestellte Fragen
-###Muss ich gut in Mathe sein?
-Nein, das ist nicht notwendig. Mathe wird bei uns keine große Rolle spielen. Für den Kurs reichen die Grundrechenarten. Du musst dich auch nicht gut mit dem Computer auskennen.  Nur ein bisschen Interesse an Technik ist von Vorteil.
+## Organisatorisches
+Die Schulung wird als Online-Kurs ab einem Teilnehmer garantiert durchgeführt. Dabei setze ich auf datenschutzfreundliche OpenSource-Software. Sie erhalten sämtliche Beispiele und Folien mit Notizen. Außerdem erhalten Sie für die nächsten 12 Monate alle Aktualisierungen der Schulungsunterlagen. Abhängig von der Corona-Lage können auch Inhouse-Seminare in Ihren Räumen gebucht werden. Schreiben Sie mir, um ein entsprechendes Angebot mit mir abzusprechen.
 
-###Ist Programmieren nur etwas für Jungen?
-Nein, überhaupt nicht! Jedes Kind kann diesen Kurs besuchen und sein Interesse am Programmieren entdecken. Das hat nichts mit dem Geschlecht zu tun.
+* Konferenzsystem: Jitsi
+* E-Learning-System: Moodle
+* Schulungsdauer: 8 Stunden
+* Preis: 499 Euro pro Teilnehmer ohne Mehrwertsteuer
+* Mindestteilnehmerzahl: 1
+* Maximale Teilnehmerzahl: 5
+* Garantierte Durchführung ab einem Teilnehmer	
+* Kollegenbonus: Dritter Mitarbeitende nimmt kostenfrei teil
 
-###Wo muss ich hinkommen?
-Das ist das Beste: Du bleibst einfach zu Hause. Der Kurs wird online über das Internet angeboten.
+Ein Teilnahmezertifikat wird Ihnen nach Abschluss des Kurses per Post zugesandt. Es beschreibt auch detailliert die Inhalte des Kurses.
 
-###Brauche ich einen modernen Computer?
-Ein moderner Computer stört nicht, ist aber keine Voraussetzung. Auch ein sehr einfacher Rechner reicht vollkommen für diesen Kurs.
+## Buchung 
+Wenn Sie sich für den Kurs interessieren, melden Sie sich bitte per Email bei mir. Wir sprechen dann alle weiteren Details wie den Termin miteinander ab. Eine Rechnung wird erst nach Ende des Kurses erstellt. Keine Vorkasse und somit absolut risikofrei für Sie. Stornierung ist bis zum Vortag des Kurses möglich.
 
-##Voraussetzungen
-
-- Stabile Internetverbindung
-- Handelsüblicher Browser (z.B. Firefox oder Google Chrome)
-- Mikrofon (ein ins Laptop eingebautes Mikrofon reicht völlig)
-- Kamera (wird natürlich nur freiwillig eingeschaltet)
-- Spaß am Lernen, Spielen und Entdecken
-
-##Preise und Termine
-Die Termine werden mit den Teilnehmern abgesprochen. Der Kurs findet an fünf Terminen à 120 Minuten inklusive Pausen statt.
-
-Gelernt wird in Kleingruppen von 3 - 5 Kindern, so dass die Kinder auch zusammen an den Übungen basteln können, und kostet pro Kind bis Ende 2020 90 statt 95 Euro.
-
-Der Kurs wird zusammen mit dem Lernstudio Alpha&Pi angeboten: [Alpha und Pi](http://alphaundpi.de)
+## Optionale Prüfung mit Zertifikat
+Bei Interesse können Sie mit einer mündlichen Prüfung ein weiteres Zertifikat mit einer entsprechenden Bewertung erwerben. Für die Prüfung berechne ich 80 Euro pro Person. Die Prüfung sollte innerhalb von vier Wochen nach Ende des Kurses stattfinden. Es handelt sich um eine 20 minütige mündliche Prüfung, in der die wichtigsten Kenntnisse zu Maven abgefragt werden und Sie die Arbeit mit Maven praktisch vorführen. 
